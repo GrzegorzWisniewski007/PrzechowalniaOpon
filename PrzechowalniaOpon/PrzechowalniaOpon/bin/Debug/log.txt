@@ -1,0 +1,265 @@
+
+Log Entry : 19:57:12 niedziela, 28 stycznia 2018
+  :
+  :TEST
+-------------------------------
+
+Log Entry : 19:59:29 niedziela, 28 stycznia 2018
+  :
+  :tes2
+-------------------------------
+
+Log Entry : 21:13:39 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 21:21:34 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 21:49:23 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 21:50:32 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 21:50:38 niedziela, 28 stycznia 2018
+  :
+  :near "use": syntax error
+-------------------------------
+
+Log Entry : 21:51:54 niedziela, 28 stycznia 2018
+  :
+  :no such table: clients
+-------------------------------
+
+Log Entry : 21:52:36 niedziela, 28 stycznia 2018
+  :
+  :no such table: clients
+-------------------------------
+
+Log Entry : 21:53:55 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 21:54:02 niedziela, 28 stycznia 2018
+  :
+  :near "(": syntax error
+-------------------------------
+
+Log Entry : 22:02:08 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:02:14 niedziela, 28 stycznia 2018
+  :
+  :near "autoincrement": syntax error
+-------------------------------
+
+Log Entry : 22:05:54 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:06:01 niedziela, 28 stycznia 2018
+  :
+  :near ")": syntax error
+-------------------------------
+
+Log Entry : 22:07:34 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:07:57 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:08:34 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:09:20 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:10:00 niedziela, 28 stycznia 2018
+  :
+  :near ")": syntax error
+-------------------------------
+
+Log Entry : 22:10:34 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:10:41 niedziela, 28 stycznia 2018
+  :
+  :near ")": syntax error
+-------------------------------
+
+Log Entry : 22:11:43 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:12:08 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:12:40 niedziela, 28 stycznia 2018
+  :
+  :near ",": syntax error
+-------------------------------
+
+Log Entry : 22:13:02 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:14:31 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:15:26 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 22:15:35 niedziela, 28 stycznia 2018
+  :
+  :near "foreign": syntax error
+-------------------------------
+
+Log Entry : 22:16:41 niedziela, 28 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 00:37:57 poniedziałek, 29 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 00:38:01 poniedziałek, 29 stycznia 2018
+  :
+  :Cannot create new file, the existing file is in use.
+-------------------------------
+
+Log Entry : 00:38:12 poniedziałek, 29 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 00:39:12 poniedziałek, 29 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 13:21:05 poniedziałek, 29 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 20:12:20 poniedziałek, 29 stycznia 2018
+  :
+  :Test close
+-------------------------------
+
+Log Entry : 20:22:12 poniedziałek, 29 stycznia 2018
+  :
+  :near "manufacturer": syntax error
+-------------------------------
+
+Log Entry : 20:27:51 poniedziałek, 29 stycznia 2018
+  :
+  :near "manufacturer": syntax error
+-------------------------------
+
+Log Entry : 20:29:01 poniedziałek, 29 stycznia 2018
+  :
+  :near "manufacturer": syntax error
+-------------------------------
+
+Log Entry : 21:23:32 poniedziałek, 29 stycznia 2018
+  :
+  :near "where": syntax error
+-------------------------------
+
+Log Entry : 19:18:37 wtorek, 6 lutego 2018
+  :
+  :near "alter": syntax error
+-------------------------------
+
+Log Entry : 19:22:48 wtorek, 6 lutego 2018
+  :
+  :near "alter": syntax error
+-------------------------------
+
+Log Entry : 19:23:08 wtorek, 6 lutego 2018
+  :
+  :near "ALTER": syntax error
+-------------------------------
+
+Log Entry : 19:27:40 wtorek, 6 lutego 2018
+  :
+  :near "ALTER": syntax error
+-------------------------------
+
+Log Entry : 19:28:51 wtorek, 6 lutego 2018
+  :
+  :near "ALTER": syntax error
+-------------------------------
+
+Log Entry : 20:11:17 wtorek, 6 lutego 2018
+  :
+  :near ")": syntax error
+-------------------------------
+
+Log Entry : 20:13:54 wtorek, 6 lutego 2018
+  :
+  :near ")": syntax error
+-------------------------------
+
+Log Entry : 20:15:46 wtorek, 6 lutego 2018
+  :
+  :Ciąg nie został rozpoznany jako prawidłowy element DateTime.
+-------------------------------
+
+Log Entry : 20:15:48 wtorek, 6 lutego 2018
+  :
+  :Ciąg nie został rozpoznany jako prawidłowy element DateTime.
+-------------------------------
+
+Log Entry : 20:16:36 wtorek, 6 lutego 2018
+  :
+  :Ciąg nie został rozpoznany jako prawidłowy element DateTime.
+-------------------------------
+
+Log Entry : 21:31:09 wtorek, 13 lutego 2018
+  :
+  :Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+-------------------------------
+
+Log Entry : 21:31:51 wtorek, 13 lutego 2018
+  :
+  :Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+-------------------------------
+
+Log Entry : 22:02:50 wtorek, 13 lutego 2018
+  :
+  :Proces nie może uzyskać dostępu do pliku „C:\Users\Grzesiu\Desktop\wydnaie.pdf”, ponieważ jest on używany przez inny proces.
+-------------------------------
